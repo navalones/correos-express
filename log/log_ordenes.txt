@@ -1,0 +1,522 @@
+stdClass Object
+(
+    [desError] => 
+    [codError] => 0
+    [listaEnvios] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [nEnvio] => 3230006278111752
+                    [nEnvioCliente] => 77750ga
+                    [referencia] => 77750ga
+                    [codigoEstado] => 38
+                    [descripcionEstado] => DEPOSITADO EN PUDO
+                    [fechaEstado] => 2023-05-26 09:35:00.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 280
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [1] => stdClass Object
+                (
+                    [nEnvio] => 3230006302827369
+                    [nEnvioCliente] => 77849ga
+                    [referencia] => 77849ga
+                    [codigoEstado] => 1
+                    [descripcionEstado] => SIN RECEPCION
+                    [fechaEstado] => 2023-05-31 11:03:55.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 000
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [2] => stdClass Object
+                (
+                    [nEnvio] => 3230006307283436
+                    [nEnvioCliente] => 73839
+                    [referencia] => 73839
+                    [codigoEstado] => 1
+                    [descripcionEstado] => SIN RECEPCION
+                    [fechaEstado] => 2023-06-01 13:18:48.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 000
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [3] => stdClass Object
+                (
+                    [nEnvio] => 3230006360680487
+                    [nEnvioCliente] => 78035ga
+                    [referencia] => 78035ga
+                    [codigoEstado] => 1
+                    [descripcionEstado] => SIN RECEPCION
+                    [fechaEstado] => 2023-06-14 16:16:22.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 000
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [4] => stdClass Object
+                (
+                    [nEnvio] => 3230006363900490
+                    [nEnvioCliente] => 78050ga
+                    [referencia] => 78050ga
+                    [codigoEstado] => 1
+                    [descripcionEstado] => SIN RECEPCION
+                    [fechaEstado] => 2023-06-15 13:28:25.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 000
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [5] => stdClass Object
+                (
+                    [nEnvio] => 3230006389128021
+                    [nEnvioCliente] => 78127ga
+                    [referencia] => 78127ga
+                    [codigoEstado] => 10
+                    [descripcionEstado] => ALMACEN ESTACIONADO
+                    [fechaEstado] => 2023-06-26 21:21:39.0
+                    [codigoIncidencia] => 6
+                    [descripcionIncidencia] => Persona de contacto Ausente
+                    [fechaIncidencia] => 2023-06-26 12:01:35.0
+                    [codDelegacion] => 283
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [6] => stdClass Object
+                (
+                    [nEnvio] => 3230006389128656
+                    [nEnvioCliente] => 78120ga
+                    [referencia] => 78120ga
+                    [codigoEstado] => 1
+                    [descripcionEstado] => SIN RECEPCION
+                    [fechaEstado] => 2023-06-22 12:20:48.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 000
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [7] => stdClass Object
+                (
+                    [nEnvio] => 3230006400598963
+                    [nEnvioCliente] => 78179ga
+                    [referencia] => 78179ga
+                    [codigoEstado] => 6
+                    [descripcionEstado] => DELEGACION DESTINO
+                    [fechaEstado] => 2023-06-29 06:02:13.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 480
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [8] => stdClass Object
+                (
+                    [nEnvio] => 3230006400599755
+                    [nEnvioCliente] => 78176ga
+                    [referencia] => 78176ga
+                    [codigoEstado] => 4
+                    [descripcionEstado] => TRANSITO
+                    [fechaEstado] => 2023-06-27 07:33:32.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 280
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [9] => stdClass Object
+                (
+                    [nEnvio] => 3230006400601953
+                    [nEnvioCliente] => 78165ga
+                    [referencia] => 78165ga
+                    [codigoEstado] => 11
+                    [descripcionEstado] => NUEVO REPARTO
+                    [fechaEstado] => 2023-06-28 09:59:39.0
+                    [codigoIncidencia] => 17
+                    [descripcionIncidencia] => Falta documentación/incompleta
+                    [fechaIncidencia] => 2023-06-28 09:58:00.0
+                    [codDelegacion] => 330
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [10] => stdClass Object
+                (
+                    [nEnvio] => 3230006400602141
+                    [nEnvioCliente] => 78163ga
+                    [referencia] => 78163ga
+                    [codigoEstado] => 10
+                    [descripcionEstado] => ALMACEN ESTACIONADO
+                    [fechaEstado] => 2023-06-27 12:43:18.0
+                    [codigoIncidencia] => 29
+                    [descripcionIncidencia] => Dañado
+                    [fechaIncidencia] => 2023-06-27 12:43:18.0
+                    [codDelegacion] => 080
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [11] => stdClass Object
+                (
+                    [nEnvio] => 3230006400602677
+                    [nEnvioCliente] => 78159ga
+                    [referencia] => 78159ga
+                    [codigoEstado] => 10
+                    [descripcionEstado] => ALMACEN ESTACIONADO
+                    [fechaEstado] => 2023-06-27 21:19:15.0
+                    [codigoIncidencia] => 8
+                    [descripcionIncidencia] => Paquete Rehusado
+                    [fechaIncidencia] => 2023-06-27 20:12:52.0
+                    [codDelegacion] => 283
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [12] => stdClass Object
+                (
+                    [nEnvio] => 3230006405448706
+                    [nEnvioCliente] => 78187ga
+                    [referencia] => 78187ga
+                    [codigoEstado] => 11
+                    [descripcionEstado] => NUEVO REPARTO
+                    [fechaEstado] => 2023-06-29 06:06:06.0
+                    [codigoIncidencia] => 6
+                    [descripcionIncidencia] => Persona de contacto Ausente
+                    [fechaIncidencia] => 2023-06-28 19:35:26.0
+                    [codDelegacion] => 370
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [13] => stdClass Object
+                (
+                    [nEnvio] => 3230006409278101
+                    [nEnvioCliente] => 78204ga
+                    [referencia] => 78204ga
+                    [codigoEstado] => 2
+                    [descripcionEstado] => EN ARRASTRE
+                    [fechaEstado] => 2023-06-28 16:02:52.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 030
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [14] => stdClass Object
+                (
+                    [nEnvio] => 3230006409278521
+                    [nEnvioCliente] => 78202ga
+                    [referencia] => 78202ga
+                    [codigoEstado] => 2
+                    [descripcionEstado] => EN ARRASTRE
+                    [fechaEstado] => 2023-06-28 16:03:14.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 030
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [15] => stdClass Object
+                (
+                    [nEnvio] => 3230006409278651
+                    [nEnvioCliente] => 78201ga
+                    [referencia] => 78201ga
+                    [codigoEstado] => 2
+                    [descripcionEstado] => EN ARRASTRE
+                    [fechaEstado] => 2023-06-28 16:02:43.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 030
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [16] => stdClass Object
+                (
+                    [nEnvio] => 3230006409278712
+                    [nEnvioCliente] => 78200ga
+                    [referencia] => 78200ga
+                    [codigoEstado] => 2
+                    [descripcionEstado] => EN ARRASTRE
+                    [fechaEstado] => 2023-06-28 16:02:40.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 030
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [17] => stdClass Object
+                (
+                    [nEnvio] => 3230006409278774
+                    [nEnvioCliente] => 78199ga
+                    [referencia] => 78199ga
+                    [codigoEstado] => 6
+                    [descripcionEstado] => DELEGACION DESTINO
+                    [fechaEstado] => 2023-06-29 05:35:02.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 410
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [18] => stdClass Object
+                (
+                    [nEnvio] => 3230006409278835
+                    [nEnvioCliente] => 78198ga
+                    [referencia] => 78198ga
+                    [codigoEstado] => 2
+                    [descripcionEstado] => EN ARRASTRE
+                    [fechaEstado] => 2023-06-28 16:02:35.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 030
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [19] => stdClass Object
+                (
+                    [nEnvio] => 3230006409278910
+                    [nEnvioCliente] => 78197ga
+                    [referencia] => 78197ga
+                    [codigoEstado] => 2
+                    [descripcionEstado] => EN ARRASTRE
+                    [fechaEstado] => 2023-06-28 16:03:53.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 030
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [20] => stdClass Object
+                (
+                    [nEnvio] => 3230006409278972
+                    [nEnvioCliente] => 78196ga
+                    [referencia] => 78196ga
+                    [codigoEstado] => 6
+                    [descripcionEstado] => DELEGACION DESTINO
+                    [fechaEstado] => 2023-06-29 01:10:09.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 500
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [21] => stdClass Object
+                (
+                    [nEnvio] => 3230006409279047
+                    [nEnvioCliente] => 78195ga
+                    [referencia] => 78195ga
+                    [codigoEstado] => 2
+                    [descripcionEstado] => EN ARRASTRE
+                    [fechaEstado] => 2023-06-28 16:03:30.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 030
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [22] => stdClass Object
+                (
+                    [nEnvio] => 3230006409279139
+                    [nEnvioCliente] => 78194ga
+                    [referencia] => 78194ga
+                    [codigoEstado] => 2
+                    [descripcionEstado] => EN ARRASTRE
+                    [fechaEstado] => 2023-06-28 16:03:36.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 030
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [23] => stdClass Object
+                (
+                    [nEnvio] => 3230006409279214
+                    [nEnvioCliente] => 78193ga
+                    [referencia] => 78193ga
+                    [codigoEstado] => 2
+                    [descripcionEstado] => EN ARRASTRE
+                    [fechaEstado] => 2023-06-28 16:00:37.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 030
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [24] => stdClass Object
+                (
+                    [nEnvio] => 3230006409583366
+                    [nEnvioCliente] => 78115
+                    [referencia] => 78115
+                    [codigoEstado] => 1
+                    [descripcionEstado] => SIN RECEPCION
+                    [fechaEstado] => 2023-06-28 10:46:57.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 000
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [25] => stdClass Object
+                (
+                    [nEnvio] => 3230006409685817
+                    [nEnvioCliente] => 78205ga
+                    [referencia] => 78205ga
+                    [codigoEstado] => 2
+                    [descripcionEstado] => EN ARRASTRE
+                    [fechaEstado] => 2023-06-28 16:03:12.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 030
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [26] => stdClass Object
+                (
+                    [nEnvio] => 3230006410736065
+                    [nEnvioCliente] => 78207ga
+                    [referencia] => 78207ga
+                    [codigoEstado] => 1
+                    [descripcionEstado] => SIN RECEPCION
+                    [fechaEstado] => 2023-06-28 14:40:20.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 000
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [27] => stdClass Object
+                (
+                    [nEnvio] => 3230006410736256
+                    [nEnvioCliente] => 78206ga
+                    [referencia] => 78206ga
+                    [codigoEstado] => 1
+                    [descripcionEstado] => SIN RECEPCION
+                    [fechaEstado] => 2023-06-28 14:40:21.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 000
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [28] => stdClass Object
+                (
+                    [nEnvio] => 6330006400603339
+                    [nEnvioCliente] => 78156ga
+                    [referencia] => 78156ga
+                    [codigoEstado] => 2
+                    [descripcionEstado] => EN ARRASTRE
+                    [fechaEstado] => 2023-06-27 15:45:00.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 030
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [29] => stdClass Object
+                (
+                    [nEnvio] => 6330006400605456
+                    [nEnvioCliente] => 78149ga
+                    [referencia] => 78149ga
+                    [codigoEstado] => 4
+                    [descripcionEstado] => TRANSITO
+                    [fechaEstado] => 2023-06-28 17:36:03.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 140
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [30] => stdClass Object
+                (
+                    [nEnvio] => 6330006409278408
+                    [nEnvioCliente] => 78203ga
+                    [referencia] => 78203ga
+                    [codigoEstado] => 2
+                    [descripcionEstado] => EN ARRASTRE
+                    [fechaEstado] => 2023-06-28 16:02:47.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 030
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+            [31] => stdClass Object
+                (
+                    [nEnvio] => 9930006409622022
+                    [nEnvioCliente] => 78056
+                    [referencia] => 78056
+                    [codigoEstado] => 2
+                    [descripcionEstado] => EN ARRASTRE
+                    [fechaEstado] => 2023-06-28 16:03:28.0
+                    [codigoIncidencia] => 
+                    [descripcionIncidencia] => 
+                    [fechaIncidencia] => 
+                    [codDelegacion] => 030
+                    [codSeguimEnvio] => 0
+                    [desSeguimEnvio] => OK
+                )
+
+        )
+
+)
+

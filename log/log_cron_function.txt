@@ -1,0 +1,77 @@
+Comenzamos ejecucion Cron -> 29-06-2023 04:25:08
+
+	Estado de la orden -> 77750 ha cambiado a -> Enviado
+
+	Estado de la orden -> 77849 no ha cambiado 
+
+	Estado de la orden -> 73839 no ha cambiado 
+
+	Estado de la orden -> 78035 no ha cambiado 
+
+	Estado de la orden -> 78050 no ha cambiado 
+
+
+	Estado de la orden -> 78127 ha cambiado a -> Enviado
+
+	Estado de la orden -> 78120 no ha cambiado 
+
+
+	Estado de la orden -> 78179 ha cambiado a -> Enviado
+
+
+	Estado de la orden -> 78176 ha cambiado a -> Enviado
+
+
+	Estado de la orden -> 78165 ha cambiado a -> Enviado
+
+
+	Estado de la orden -> 78163 ha cambiado a -> Enviado
+
+
+	Estado de la orden -> 78159 ha cambiado a -> Enviado
+
+
+	Estado de la orden -> 78187 ha cambiado a -> Enviado
+
+	Estado de la orden -> 78204 no ha cambiado 
+
+	Estado de la orden -> 78202 no ha cambiado 
+
+	Estado de la orden -> 78201 no ha cambiado 
+
+	Estado de la orden -> 78200 no ha cambiado 
+
+
+	Estado de la orden -> 78199 ha cambiado a -> Enviado
+
+	Estado de la orden -> 78198 no ha cambiado 
+
+	Estado de la orden -> 78197 no ha cambiado 
+
+
+	Estado de la orden -> 78196 ha cambiado a -> Enviado
+
+	Estado de la orden -> 78195 no ha cambiado 
+
+	Estado de la orden -> 78194 no ha cambiado 
+
+	Estado de la orden -> 78193 no ha cambiado 
+
+	Estado de la orden -> 78115 no ha cambiado 
+
+	Estado de la orden -> 78205 no ha cambiado 
+
+	Estado de la orden -> 78207 no ha cambiado 
+
+	Estado de la orden -> 78206 no ha cambiado 
+
+	Estado de la orden -> 78156 no ha cambiado 
+
+
+	Estado de la orden -> 78149 ha cambiado a -> Enviado
+
+	Estado de la orden -> 78203 no ha cambiado 
+
+	Estado de la orden -> 78056 no ha cambiado 
+
+	 LA EJECUCIÓN DEL CRON HA ACABADO
